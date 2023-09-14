@@ -24,6 +24,6 @@
 | [RF22] | A aplicação deve notificar quando o estoque está baixo para administradores. | Alta | - |
 | [RF23] | A aplicação deve possuir um sistema de Comentários e Avaliações. | Alta | RF01 |
 | [RF24] | Somente usuários cadastrados podem deixar avaliações e comentários sobre produtos. | Alta | RF01 |
-| [RF25] | Somente administradores pode gerir o conteúdo da aplicação | Alta | - |
+| [RF25] | Somente administradores podem gerir o conteúdo da aplicação | Alta | - |
 | [RF26] | A aplicação deve recomendar produtos com base no histórico de compras e preferências do cliente. | Média | RF01 |
 | [RF27] | Somente um usuário autenticado pode favoritar produtos | Média | RF01 |
