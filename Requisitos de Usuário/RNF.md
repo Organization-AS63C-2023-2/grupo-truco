@@ -8,5 +8,5 @@
 |RNF06| A aplicação deverá estar disponível 24/7 com o mínimo de tempo de inatividade planejado para manutenção.| Alta | - |
 |RNF07| A aplicação deverá dimensionar recursos conforme o crescimento do tráfego e das vendas.| Média | - |
 |RNF08| A aplicação terá um design responsivo para diferentes dispositivos (desktop, mobile, tablet).| Média | - |
-|RNF09| A aplicação deve funcionar em diferentes navegadores e sistemas operacionais.| Alta | - |
+|RNF09| A aplicação deve funcionar em diferentes navegadores e sistemas operacionais.| Alta | RNF08 |
 |RNF10| A aplicação deve fornecer suporte ao cliente através de chat ao vivo, e-mail ou telefone.| Média | - |
