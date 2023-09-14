@@ -2,7 +2,7 @@
 
 ## Grupo Truco // AS63C - Desenvolvimento Ágil - UTFPR
 
-### Participantes
+## Participantes
 
 João Pedro Koguishi(2391180)
 
