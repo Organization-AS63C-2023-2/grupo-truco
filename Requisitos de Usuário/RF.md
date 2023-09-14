@@ -2,7 +2,7 @@
 | ------------- | ------------- |------------- |------------- |
 | [RF01] | A aplicação deve permitir que usuários não autenticados possam se registrar com informações pessoais | Alta | - |
 | [RF02] | Um usuário não autenticado pode alterar a própria senha através do fluxo de "Esqueceu a senha" | Média | - |
-| [RF03] | Um usuário não autenticado pode realizar a autenticação na aplicação. | Alta | - |
+| [RF03] | Um usuário não autenticado pode realizar a autenticação na aplicação. | Alta | RF01 |
 | [RF04] | Um usuário não autenticado e/ou autenticado realizar pesquisas de produtos por categoria, tipo de roupa, marca, tamanho, cor, etc. | Alta | RF01 |
 | [RF05] | A aplicação deve ter um filtro avançado para refinar os resultados da pesquisa. | Média | RF04 |
 | [RF06] | A aplicação deve exibir informações detalhadas de produtos, incluindo imagens, preços, descrições e disponibilidade. | Alta | RF04 |
