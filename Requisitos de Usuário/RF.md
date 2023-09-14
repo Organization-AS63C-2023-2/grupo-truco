@@ -14,7 +14,7 @@
 | [RF12] | Um usuário não autenticado pode remover itens do carrinho | Alta | - |
 | [RF13] | A aplicação deve calcular automaticamente o total da compra. | Alta | RF09, RF10, RF11, RF12 |
 | [RF14] | Usuários poderão visualizar o resumo do carrinho antes da finalização da compra. | Alta | RF09, RF10, RF11, RF12, RF13 |
-| [RF15] | A aplicação deverá coletar as informações de envio e pagamento. | Alta | RF01 |
+| [RF15] | A aplicação deve coletar as informações de envio e pagamento. | Alta | RF01 |
 | [RF16] | Somente um usuário autenticado pode finalizar o processo de compra (checkout) | Alta | RF01 |
 | [RF17] | A aplicação deve gerar números de pedidos e confirmações de compra por e-mail. | Alta | RF01 |
 | [RF18] | Um usuário autenticado pode visualizar o histórico de pedidos feitos. | Média | RF01 |
@@ -23,7 +23,7 @@
 | [RF21] | A aplicação deve atualizar em tempo real o estoque de produtos. | Alta | - |
 | [RF22] | A aplicação deve notificar quando o estoque está baixo para administradores. | Alta | - |
 | [RF23] | A aplicação deve possuir um sistema de Comentários e Avaliações. | Alta | RF01 |
-| [RF24] | Somente usuários cadastrados poderão deixar avaliações e comentários sobre produtos. | Alta | RF01 |
-| [RF25] | Somente administradores poderão gerir o conteúdo da aplicação | Alta | - |
+| [RF24] | Somente usuários cadastrados pode deixar avaliações e comentários sobre produtos. | Alta | RF01 |
+| [RF25] | Somente administradores pode gerir o conteúdo da aplicação | Alta | - |
 | [RF26] | A aplicação deve recomendar produtos com base no histórico de compras e preferências do cliente. | Média | RF01 |
 | [RF27] | Somente um usuário autenticado pode favoritar produtos | Média | RF01 |
