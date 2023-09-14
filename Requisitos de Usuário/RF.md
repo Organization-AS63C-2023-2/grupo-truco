@@ -26,4 +26,4 @@
 | [RF24] | Somente usuários cadastrados podem deixar avaliações e comentários sobre produtos. | Alta | RF01 |
 | [RF25] | Somente administradores podem gerir o conteúdo da aplicação | Alta | - |
 | [RF26] | A aplicação deve recomendar produtos com base no histórico de compras e preferências do cliente. | Média | RF01 |
-| [RF27] | Somente um usuário autenticado pode favoritar produtos | Média | RF01 |
+| [RF27] | Somente usuários autenticados podem favoritar produtos | Média | RF01 |
