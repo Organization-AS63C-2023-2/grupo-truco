@@ -6,7 +6,7 @@
 | [RF04] | Um usuário autenticado pode realizar pesquisas de produtos por categoria, tipo de roupa, marca, tamanho, cor, etc. | Alta | RF01 |
 | [RF05] | Um usuário não autenticado pode realizar pesquisas de produtos por categoria, tipo de roupa, marca, tamanho, cor, etc. | Alta | - |
 | [RF06] | A aplicação deve ter um filtro avançado para refinar os resultados da pesquisa. | Média | RF04, RF05 |
-| [RF07] | A aplicação deve exibir informações detalhadas de produtos, incluindo imagens, preços, descrições e disponibilidade. | Alta | RF04, RF05, RF06 |
+| [RF07] | A aplicação deve exibir informações detalhadas de produtos, incluindo imagens, preços, descrições e disponibilidade. | Alta | - |
 | [RF08] | A aplicação poderá ter classificação por popularidade, preço, avaliações dos clientes, etc. | Média | - |
 | [RF09] | Um usuário autenticado pode adicionar itens ao carrinho | Alta | RF01 |
 | [RF10] | Um usuário não autenticado pode adicionar itens ao carrinho | Alta | - |
