@@ -1,7 +1,7 @@
 | ID  | Requisito | Prioridade | Requisitos Relacionados
 | ------------- | ------------- |------------- |------------- |
 | [RF01] | A aplicação deve permitir que usuários não autenticados possam se registrar com informações pessoais | Alta | - |
-| [RF02] | Um usuário não autenticado pode alterar a própria senha através do fluxo de "Esqueceu a senha" | Média | - |
+| [RF02] | Um usuário não autenticado pode alterar a própria senha através do fluxo de "Esqueceu a senha" | Média | RF01 |
 | [RF03] | Um usuário não autenticado pode realizar a autenticação na aplicação. | Alta | RF01 |
 | [RF04] | Um usuário autenticado pode realizar pesquisas de produtos por categoria, tipo de roupa, marca, tamanho, cor, etc. | Alta | RF01 |
 | [RF05] | Um usuário não autenticado pode realizar pesquisas de produtos por categoria, tipo de roupa, marca, tamanho, cor, etc. | Alta | - |
