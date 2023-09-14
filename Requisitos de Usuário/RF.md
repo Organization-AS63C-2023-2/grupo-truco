@@ -13,7 +13,7 @@
 | [RF11] | Um usuário autenticado pode remover itens do carrinho | Alta | RF01 |
 | [RF12] | Um usuário não autenticado pode remover itens do carrinho | Alta | - |
 | [RF13] | A aplicação deve calcular automaticamente o total da compra. | Alta | RF09, RF10, RF11, RF12 |
-| [RF14] | Usuários poderão visualizar o resumo do carrinho antes da finalização da compra. | Alta | RF09, RF10, RF11, RF12, RF13 |
+| [RF14] | Usuários podem visualizar o resumo do carrinho antes da finalização da compra. | Alta | RF09, RF10, RF11, RF12, RF13 |
 | [RF15] | A aplicação deve coletar as informações de envio e pagamento. | Alta | RF01 |
 | [RF16] | Somente um usuário autenticado pode finalizar o processo de compra (checkout) | Alta | RF01 |
 | [RF17] | A aplicação deve gerar números de pedidos e confirmações de compra por e-mail. | Alta | RF01 |
