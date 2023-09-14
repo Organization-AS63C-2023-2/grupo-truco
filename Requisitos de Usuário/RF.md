@@ -22,5 +22,5 @@
 | [RF20] | A aplicação deve possuir um sistema de Comentários e Avaliações. | Alta | RF01 |
 | [RF21] | Somente usuários cadastrados poderão deixar avaliações e comentários sobre produtos. | Alta | - |
 | [RF22] | Somente administradores poderão gerir o conteúdo da aplicação | Alta | - |
-| [RF23] | A aplicação deve recomendar produtos com base no histórico de compras e preferências do cliente. | Média | - |
+| [RF23] | A aplicação deve recomendar produtos com base no histórico de compras e preferências do cliente. | Média | RF01 |
 | [RF24] | Somente um usuário autenticado pode favoritar produtos | Média | RF01 |
