@@ -1,10 +1,10 @@
-# E-commerce-AS63C-2023.2
+![image](https://github.com/lrocha2001/E-commerce-AS63C-2023.2/assets/49926164/13c1c8c3-4f7f-4a3f-a085-f7d3df69a91a)# E-commerce-AS63C-2023.2
 
 ## Grupo Truco // AS63C - Desenvolvimento Ágil - UTFPR
 
 ## Participantes
 
-João Pedro Koguishi(2391180)
+João Pedro Koguishi(2391180) - https://github.com/joaokogs/
 
 Lucas Soares(1913336) - https://github.com/lrocha2001/ 
 
