@@ -37,6 +37,13 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
 <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
 <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
         </tr>
+        <span id="ustory-01"></span>
+<td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US04</td>
+<td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como um cliente, quero poder alterar e visualizar o carrinho de forma dinâmica para controlar melhor o preço final do pedido.</td>
+<td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>A aplicação deve calcular o preço do carrinho de acordo com os produtos adicionados ou removidos.</li></ol></td>
+<td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
+<td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF09,RF10,RF11,RF12,RF13,RF14</td>
+        </tr>
 </table>
 
 <div style="text-align: center">
