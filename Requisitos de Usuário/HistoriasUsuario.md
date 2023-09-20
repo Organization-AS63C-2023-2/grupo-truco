@@ -4,4 +4,4 @@
 | US02 | Como um cliente, eu quero buscar uma roupas, para que eu possa escolher os produtos que mais me agradam |  * 1. Ao entrar na aplicação, os produtos devem aparecer na página inicial.* 2. Os produtos devem ser responsivos e funcionar em diferentes plataformas.* 3. Os produtos devem aparecer em formatos de Grid Table. | Alta | - |
 | US03 | Como um cliente, eu quero rastrear o meu produto para acompanhar o andamento do meu pedido. | - | - | - |
 | US04 | Como um cliente, eu quero ter acesso a ferramentas que me auxiliem a fazer buscas na loja para escolher melhor os produtos na loja. | - | - | - |
-| US05 | Como um cliente, eu quero poder alterar e vizualizar o carrinho de forma dinâmica para controlar melhor o preço final do pedido. | - | - | - |
+| US05 | Como um cliente, eu quero poder alterar e visualizar o carrinho de forma dinâmica para controlar melhor o preço final do pedido. | - | - | - |
