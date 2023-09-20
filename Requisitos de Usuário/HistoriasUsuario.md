@@ -39,7 +39,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
             <span id="ustory-01"></span>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">US03</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1">Eu, como um cliente, preciso me registrar na aplicação para realizar compras</td>
-            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Somente usuários autenticados poderão completar o fluxo de compra (checkout)/li></ol></td>
+            <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle" rowspan="1"><ol><li>Somente usuários autenticados poderão completar o fluxo de compra (checkout)</li></ol></td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">Alta</td>
             <td style="border-style:solid;border-width:1px;text-align:center;vertical-align:middle">RF01</td>
         </tr>
