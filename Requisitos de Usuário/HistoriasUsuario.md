@@ -4,6 +4,4 @@
 | US02 | Como um cliente, eu quero buscar uma roupas, para que eu possa escolher os produtos que mais me agradam |  * 1. Ao entrar na aplicação, os produtos devem aparecer na página inicial.
   * 2. Os produtos devem ser responsivos e funcionar em diferentes plataformas.
   * 3. Os produtos devem aparecer em formatos de Grid Table. | Alta | - |
-| US03 | Como um administrador da aplicação, eu quero alterar as imagens, valores e quantidades de estoque de produtos, para que a empresa possa ter um gerenciamento dos produtos | - | - | - |
-
 
