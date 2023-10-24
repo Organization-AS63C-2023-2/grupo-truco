@@ -25,7 +25,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
                 </ol>
             </td>
             <td style="border-style: solid; border-width: 1px; text-align: center; vertical-align: middle">Alta</td>
-            <td style="border-style: solid; border-width: 1px; text-align: center; vertical-align: middle">RF01, RF04, RF05, RF06, RF07, RF08, RF23, RF26</td>
+            <td style="border-style: solid; border-width: 1px; text-align: center; vertical-align: middle">RF01, RF04, RF05, RF06, RF07, RF08, RF23</td>
         </tr>
         <tr>
             <td style="border-style: solid; border-width: 1px; text-align: center; vertical-align: middle">US02</td>
