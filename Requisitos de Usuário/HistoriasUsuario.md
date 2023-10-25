@@ -1,6 +1,6 @@
 # 1. História de Usuário
 
-A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas. 
+A Tabela 1 a seguir contém as Histórias de Usuárias elicitadas. 
 
 <table>
     <thead>
@@ -204,4 +204,7 @@ A Tabela 3 a seguir contém as Histórias de Usuárias elicitadas.
     <p>Tabela 3: Histórias de Usuário</p>
 </div>
 
-## 5. Referências bibliográficas
+# 2. Referências
+
+
+<a href="../README.md">VOLTAR INÍCIO</a>
