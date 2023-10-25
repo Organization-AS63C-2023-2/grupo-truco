@@ -24,3 +24,8 @@
 | [RF22] | Somente administradores podem gerir o conteúdo da aplicação. | Alta | - |
 | [RF23] |A aplicação deve recomendar produtos com base no histórico de compras e preferências do cliente. | Média | - |
 | [RF24] | Usuários podem favoritar produtos. | Média | - |
+
+# 2. Referências
+
+
+<a href="../README.md">VOLTAR INÍCIO</a>
