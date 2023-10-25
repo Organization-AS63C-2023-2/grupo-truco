@@ -1,5 +1,3 @@
-## E-commerce-AS63C-2023.2
-
 ## Grupo Truco // AS63C - Desenvolvimento Ágil - UTFPR
 
 ## Participantes
