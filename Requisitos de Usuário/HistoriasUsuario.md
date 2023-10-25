@@ -201,7 +201,7 @@ A Tabela 1 a seguir contém as Histórias de Usuárias elicitadas.
 </table>
 
 <div style="text-align: center">
-    <p>Tabela 3: Histórias de Usuário</p>
+    <p>Tabela 1: Histórias de Usuário</p>
 </div>
 
 # 2. Referências
