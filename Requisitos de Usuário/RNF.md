@@ -10,3 +10,8 @@
 | [RNF08] | A aplicação terá um design responsivo para diferentes dispositivos (desktop, mobile, tablet).| Média | - |
 | [RNF09] | A aplicação deve funcionar em diferentes navegadores e sistemas operacionais.| Alta | RNF08 |
 | [RNF10] | A aplicação deve fornecer suporte ao cliente através de chat ao vivo, e-mail ou telefone.| Média | - |
+
+# 2. Referências
+
+
+<a href="../README.md">VOLTAR INÍCIO</a>
