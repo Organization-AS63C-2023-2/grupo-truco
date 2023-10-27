@@ -19,3 +19,4 @@ Neste repositório serão encontrados os seguintes artefatos:
 
 * [Requisitos Funcionais](https://github.com/lrocha2001/E-commerce-AS63C-2023.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RF.md)
 * [Requisitos Não Funcionais](https://github.com/lrocha2001/E-commerce-AS63C-2023.2/blob/main/Requisitos%20de%20Usu%C3%A1rio/RNF.md)
+* [Prototipação Figma](https://www.figma.com/file/o5lI8xyaBR0tL5CYoDhQTu/ecommerce?type=design&mode=design&t=ZkMiQwyPvqNfASrW-1)
